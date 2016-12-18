@@ -1,0 +1,38 @@
+
+Sarah Drasner
+@sarah_edo
+https://webanimationworkshops.com
+http://codepen.io/sdras/
+
+—
+
+Rachel Nabors
+@rachelnabors
+https://twitter.com/rachelnabors
+http://codepen.io/rachelnabors/
+http://www.slideshare.net/CrowChick/communicating-animation-slides
+
+—
+
+Val Head
+@vlh
+https://twitter.com/vlh
+
+http://rosenfeldmedia.com/books/designing-interface-animation/
+http://valhead.com/category/css-animation/
+
+—
+
+Estelle Weyl
+@standardista
+https://twitter.com/standardista
+
+http://www.standardista.com/css3/animations/
+http://www.standardista.com/
+
+—
+
+General Sites:
+http://tympanus.net/codrops/
+https://material.google.com/motion/material-motion.html
+https://medium.com/outsystems-experts/how-to-achieve-60-fps-animations-with-css3-db7b98610108#.1fca1w353
